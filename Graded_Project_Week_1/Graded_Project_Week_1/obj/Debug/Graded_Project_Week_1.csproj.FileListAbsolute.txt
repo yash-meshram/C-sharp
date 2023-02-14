@@ -1,0 +1,8 @@
+C:\Users\meshramyash.arun\source\repos\Graded_Project_Week_1\Graded_Project_Week_1\bin\Debug\Graded_Project_Week_1.exe.config
+C:\Users\meshramyash.arun\source\repos\Graded_Project_Week_1\Graded_Project_Week_1\bin\Debug\Graded_Project_Week_1.exe
+C:\Users\meshramyash.arun\source\repos\Graded_Project_Week_1\Graded_Project_Week_1\bin\Debug\Graded_Project_Week_1.pdb
+C:\Users\meshramyash.arun\source\repos\Graded_Project_Week_1\Graded_Project_Week_1\obj\Debug\Graded_Project_Week_1.csproj.AssemblyReference.cache
+C:\Users\meshramyash.arun\source\repos\Graded_Project_Week_1\Graded_Project_Week_1\obj\Debug\Graded_Project_Week_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\meshramyash.arun\source\repos\Graded_Project_Week_1\Graded_Project_Week_1\obj\Debug\Graded_Project_Week_1.csproj.CoreCompileInputs.cache
+C:\Users\meshramyash.arun\source\repos\Graded_Project_Week_1\Graded_Project_Week_1\obj\Debug\Graded_Project_Week_1.exe
+C:\Users\meshramyash.arun\source\repos\Graded_Project_Week_1\Graded_Project_Week_1\obj\Debug\Graded_Project_Week_1.pdb
